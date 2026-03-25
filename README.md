@@ -18,3 +18,4 @@ This repository contains a custom-built AI API that bridges the gap between hist
 ## Project Verification
 ---
 *Developed by Elabeh @ Fayzone Digital Studio.*
+<meta name="talentapp:project_verification" content="8a207e59eaba20c5edbdad46015e3f5ffdd87c72cca8db2352b78b3cacad555384d35ecc6512a1822a631cee1e70f91957e0c4a1f1cfd601b8596ad321a7884e">
